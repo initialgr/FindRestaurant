@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FindRestaurant</string>
+    <string name="ratingResto">4.9 | Very Good</string>
+    <string name="namaRestoran">Japanese Food</string>
+    <string name="jenisRestoran">Lunch</string>
+    <string name="lokasiRestoran">Jonggol, Alun - alun Jonggol</string>
+    <string name="hargaMakananPerOrang">IDR 20000 / 3 orang</string>
+    <string name="AlamatLengkapRestoran">Jonggol</string>
+    <string name="jamOperasional">10 Pagi</string>
+</resources>
